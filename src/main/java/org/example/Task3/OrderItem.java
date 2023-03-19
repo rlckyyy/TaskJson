@@ -16,17 +16,12 @@ public class OrderItem {
         return productID;
     }
 
-    public void setProductID(int productID) {
-        this.productID = productID;
-    }
 
     public int getQuantity() {
         return quantity;
     }
 
-    public void setQuantity(int quantity) {
-        this.quantity = quantity;
-    }
+
 
     @Override
     public String toString() {

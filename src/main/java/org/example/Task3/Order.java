@@ -20,24 +20,14 @@ public class Order {
         return id;
     }
 
-    public void setId(int id) {
-        this.id = id;
-    }
 
     public LocalDate getDate() {
         return date;
     }
 
-    public void setDate(LocalDate date) {
-        this.date = date;
-    }
 
     public OrderItem getItems() {
         return items;
-    }
-
-    public void setItems(OrderItem items) {
-        this.items = items;
     }
 
     @Override
