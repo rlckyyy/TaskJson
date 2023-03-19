@@ -1,0 +1,17 @@
+[
+  {"name": "Yernur","email": "relucky@gmail.com", "address": {
+    "street": "Amirbekov",
+    "city": "Astana",
+    "zip": "SW1A 0AA"
+  }},
+  {"name": "Jackie","email": "chan@gmail.com", "address": {
+    "street": "Kiau",
+    "city": "Beijing",
+    "zip": "SE1 7PB"
+  }},
+  {"name": "Kate","email": "kate@gmail.com", "address": {
+    "street": "Hook",
+    "city": "London",
+    "zip": "EC1A 1BB"
+  }}
+]

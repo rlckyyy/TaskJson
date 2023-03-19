@@ -1,0 +1,33 @@
+[
+  {
+  "id": 1,
+  "name": "Milk",
+  "price": 4.99,
+  "description": "milk product for you",
+  "reviews": [
+    { "rating": 4,
+      "comment": "Snickers better"
+    },
+    {
+      "rating": 3,
+      "comment": "BMW better"
+    }
+  ]
+},
+  {
+    "id": 2,
+    "name": "Mercedes Benz CLS63",
+    "price": 10000000.0,
+    "description": "Car for you",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Best Car"
+      },
+      {
+        "rating": 2151551,
+        "comment": "Dream"
+      }
+    ]
+  }
+]
